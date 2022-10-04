@@ -18,14 +18,14 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/f38f1ce61e1e674e20e94.jpg'
+let ppown = 'https://telegra.ph/file/61b9e8b1e5659849fc7a4.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Oscar Offc
-${htjava} *✉️ Nama YouTube* : Rismabotz offc
-${htjava} *♂️ Gender* : Boys
+${htjava} *💌 Nama* : Aji OFFC
+${htjava} *✉️ Nama YouTube* : SxyoBotz
+${htjava} *♂️ Gender* : Lakikk
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 30 Januari 2004
-${htjava} *🎨 Umur* : 17
+${htjava} *⏰ Tanggal lahir* : 13 september 2003
+${htjava} *🎨 Umur* : 19
 ${htjava} *🧮 Kelas* : Lulus 
 ${htjava} *🧩 Hobby* : Nonton Donghua, Chatting, Musik, Recode script bot
 ${htjava} *💬 Sifat* : Baik, No seleb, Y, Y
