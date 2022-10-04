@@ -1,2 +1,1 @@
-worker: npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-webkri: node .
+worker: node . --db "mongodb+srv://SxyoBotz:RamaPvt567@cluster0.cmn6eio.mongodb.net/?retryWrites=true&w=majority" --autocleartmp --restrict
